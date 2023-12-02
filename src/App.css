@@ -1,0 +1,15 @@
+.Panels {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr 2fr;
+}
+
+dl {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 4px 0;
+  padding: 4px;
+}
+
+dt {
+  font-weight: bold;
+}
